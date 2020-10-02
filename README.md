@@ -1,30 +1,40 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pokedex JavaScript
 
-## Getting Started
+## Sobre
 
-First, run the development server:
+Pokedex com os primeiros 151 pokemons da jornada de Kanto.
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+## Tequinologias
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- ReactJS
+- NextJS
+- TypeScript
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## Andamento
 
-## Learn More
+Em construção.
 
-To learn more about Next.js, take a look at the following resources:
+## Funcionalidades
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- Listar os 151 pokemons. (pendente)
+- Mostrar detalhes de cada pokemon quando clicado. (pendente)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Instruções
 
-## Deploy on Vercel
+Para testar basta clonar o repositório com o comando:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+`git clone https://github.com/GBShadow/pokedex-nextjs.git`
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+depois entrar na pasta do repositório, e usar o comando:
+
+`npm install` ou `yarn install` para instalar as dependências,
+
+e executar com o comando:
+
+`npm run dev` ou `yarn dev`
+
+## Mais informações
+
+Pokedex criada com o framework NextJS, para poder aprender o desenvolvimento,
+usando o NextJS, no futuro estarei adcionando novas funcionalidades para a
+pokedex.
